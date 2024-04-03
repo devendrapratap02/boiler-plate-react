@@ -13,7 +13,7 @@
 		"boiler",
 		"boiler-plate"
 	],
-	"author": "Devendra Pratap Singh <dps.manit@gmail.com> (https://devendrapratap.in/)",
+	"author": "Devendra Pratap Singh <dps.manit@gmail.com> (https://devendrapratap.me/)",
 	"license": "ISC",
 	"devDependencies": {
 		"babel-core": "^6.26.3",
